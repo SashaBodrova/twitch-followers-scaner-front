@@ -1,1 +1,1 @@
-# user-details-front
+# twitch-followers-scaner-front
